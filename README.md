@@ -1,6 +1,10 @@
 # javascript-challenge
 You can access the application by clicking on: https://gongl1.github.io/javascript-challenge/
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
